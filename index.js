@@ -64,4 +64,5 @@ function writeToFile(fileName, data) {
         else {console.log("fileCreated")}
     })
  }
-     
+     // Function call to initialize app
+init();
