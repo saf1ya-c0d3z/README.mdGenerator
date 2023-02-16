@@ -57,4 +57,11 @@ const questions = [
           message: 'What does the user need to know about contributing to the repo?',
         },
       ];
-    
+// TODO: Create a function to write README file
+function writeToFile(fileName, data) {
+    fs.writeFile(fileName, generateMarkdown(data),error =>  {
+        if (error) {console.log("error")}
+        else {console.log("fileCreated")}
+    })
+ }
+     
