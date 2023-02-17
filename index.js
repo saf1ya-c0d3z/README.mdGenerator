@@ -64,5 +64,9 @@ function writeToFile(fileName, data) {
         else {console.log("fileCreated")}
     })
  }
+
+function init() {
+  inquirer.prompt(questions)
+}
      // Function call to initialize app
 init();
