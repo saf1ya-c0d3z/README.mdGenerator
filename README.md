@@ -1,8 +1,8 @@
-# undefined
-  ![licensebadge](https://img.shields.io/badge/License-undefined-brightgreen)
+# READ.mdGenerator
+  ![licensebadge](https://img.shields.io/badge/License-MIT-brightgreen)
   
   ## Description
-  undefined
+  This is a README.mdGenerator tool
   
   ## Table of Contents
   * [Installation](#installation)
@@ -11,21 +11,25 @@
   * [Tests](#tests)
   * [Questions](#questions)
    
+* [License](#license)
+
   
   ## Installation
-  undefined
+  npm i
 
   ## Usage
-  undefined
+  Make sure to create a repo
 
-  undefined
+  ## License
+  
+  This project is licensed with MIT license.
 
   ## Contributing 
-  undefined
+  Make sure to push to the repo often
 
   ## Tests
-  undefined
+  npm test
 
   ## Questions
-  If you have any questions please feel free to contact me at [undefined](mailto:undefined) or check out my gitHub profile at [undefined](https://github.com/undefined)
+  If you have any questions please feel free to contact me at [saf1yac0d3z@gmail.com](mailto:saf1yac0d3z@gmail.com) or check out my gitHub profile at [saf1ya-c0d3z](https://github.com/saf1ya-c0d3z)
   
